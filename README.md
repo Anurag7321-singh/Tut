@@ -1,3 +1,3 @@
 # Tut
 Trying git for first time
-Aurthor - Anurag 
+Aurthor - Anurag pratap
